@@ -29,7 +29,9 @@ Why cant we use a pattern to help us?
 Why cant these patterns help us change the reality?
 The Answer is, yes they can. All we need to do is understand the pattern to use it.
 
-Alright, But how can we interact with the patterns?
+**Alright, But how can we interact with the patterns?**
+
+
 This is what our curious mind asks us. The main point is, to know patterns from very basic level. 
 
 **The basic Shapes:**
